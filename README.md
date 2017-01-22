@@ -7,4 +7,8 @@
 **
 ** This is just a test to say 'Hello World!"
 ** 
+**
+** Now I'm adding more text to get get practice making revisions in github.
+**
+** This is part of week 1 of CoderGirl's web dev lessons.
 **/
